@@ -9,4 +9,4 @@ Además, contiene diversas pantallas de formularios y de grabación de voz. Los 
 
 Contiene únicamente los scripts del proyecto.
 
-Proyecto final del grado en Diseño y Desarrollo de Videojuegos. *Matrícula de Honor
+Proyecto final del grado en Diseño y Desarrollo de Videojuegos. *Matrícula de Honor*
