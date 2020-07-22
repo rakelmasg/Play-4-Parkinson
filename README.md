@@ -7,4 +7,6 @@ Además, contiene diversas pantallas de formularios y de grabación de voz. Los 
 
 - Juego de conducción: consiste en dirigir el coche por la carretera sin salirse ni colisionar Dispone de modo primera persona y tercera persona. (Creación de mapa aleatorio en tiempo real)
 
-Contiene únicamente los scripts del proyecto. 
+Contiene únicamente los scripts del proyecto.
+
+Proyecto final del grado en Diseño y Desarrollo de Videojuegos. *Matrícula de Honor
